@@ -1,0 +1,9 @@
+node_modules
+assets
+build
+dist
+src
+logs
+electron-builder.yml
+*.exe
+*.ico
