@@ -5,5 +5,9 @@ dist
 src
 logs
 electron-builder.yml
+package-lock.json
+package.json
+main.js
+preload.js
 *.exe
 *.ico
